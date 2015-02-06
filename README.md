@@ -14,9 +14,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Ionic on CodePen](http://codepen.io/ionic/)
 * [Community Forum](http://forum.ionicframework.com/)
 * [Ionic IRC](http://webchat.freenode.net/?randomnick=1&channels=%23ionic&uio=d4)
-* [Ionic Framework generator](https://github.com/diegonetto/generator-ionic) - Yeoman generator for creating Ionic hybrid mobile applications.
-* [ngCordova](http://ngcordova.com/) - A collection of AngularJS extensions on top of the Cordova API.
-* [Ionic View](http://apps.ionic.io/view-app) - Test and share your ionic app on iPhone without needing a Mac
+* [Ionic Youtube Channel](https://www.youtube.com/channel/UChYheBnVeCfhCmqZfCUdJQw)
+
+## Tools
+
+* [Ionic Cli](https://www.npmjs.com/package/ionic) - The Ionic command line utility
+* [Ionicons](http://ionicons.com/) - The premium icon font for Ionic
+* [ngCordova](http://ngcordova.com/) - A collection of AngularJS extensions on top of the Cordova API
+* [Ionic View](http://apps.ionic.io/view-app) - Test and share your ionic app on iPhone
+* [Ionic Framework generator](https://github.com/diegonetto/generator-ionic) - Yeoman generator for creating Ionic hybrid mobile applicationswithout needing a Mac
 
 
 ## Tutorials and articles
@@ -54,9 +60,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Open source projects
 
-* [CNodeJS](https://github.com/lanceli/cnodejs-ionic) - The mobile app of [https://cnodejs.org](https://cnodejs.org).
-* [Pocket Lines · Mallorca](https://github.com/gsabater/Pocket-Lines) - Transports app for Palma de Mallorca.
-* [Convergence](https://github.com/GrumpyWizards/Convergence) - A fun game.
+* [CNodeJS](https://github.com/lanceli/cnodejs-ionic) - The mobile app of [https://cnodejs.org](https://cnodejs.org)
+* [Pocket Lines · Mallorca](https://github.com/gsabater/Pocket-Lines) - Transports app for Palma de Mallorca
+* [Convergence](https://github.com/GrumpyWizards/Convergence) - A fun game
 
 ## Books
 
