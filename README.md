@@ -21,8 +21,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Ionic Cli](https://www.npmjs.com/package/ionic) - The Ionic command line utility
 * [Ionicons](http://ionicons.com/) - The premium icon font for Ionic
 * [ngCordova](http://ngcordova.com/) - A collection of AngularJS extensions on top of the Cordova API
-* [Ionic View](http://apps.ionic.io/view-app) - Test and share your ionic app on iPhone
-* [Ionic Framework generator](https://github.com/diegonetto/generator-ionic) - Yeoman generator for creating Ionic hybrid mobile applicationswithout needing a Mac
+* [Ionic View](http://apps.ionic.io/view-app) - Test and share your ionic app on iPhone without needing a Mac
+* [Ionic Framework generator](https://github.com/diegonetto/generator-ionic) - Yeoman generator for Ionic
 
 
 ## Tutorials and articles
