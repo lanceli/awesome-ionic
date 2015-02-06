@@ -16,6 +16,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Ionic IRC](http://webchat.freenode.net/?randomnick=1&channels=%23ionic&uio=d4)
 * [Ionic Framework generator](https://github.com/diegonetto/generator-ionic) - Yeoman generator for creating Ionic hybrid mobile applications.
 * [ngCordova](http://ngcordova.com/) - A collection of AngularJS extensions on top of the Cordova API.
+* [Ionic View](http://apps.ionic.io/view-app) - Test and share your ionic app on iPhone without needing a Mac
 
 
 ## Tutorials and articles
