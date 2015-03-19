@@ -57,6 +57,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Ionic Hacker News](https://github.com/driftyco/front-page)
 * [Ionic Weather App](https://github.com/driftyco/ionic-weather)
 * [Push Notification Sample App](https://github.com/hollyschinsky/PushNotificationSample)
+* [Ionic Chat application](https://github.com/melvin0008/ionic-socketio-chat-client/) - Chat application made using ionic and socketio
 
 ## Open source projects
 
