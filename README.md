@@ -58,12 +58,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Ionic Weather App](https://github.com/driftyco/ionic-weather)
 * [Push Notification Sample App](https://github.com/hollyschinsky/PushNotificationSample)
 * [Ionic Chat application](https://github.com/melvin0008/ionic-socketio-chat-client/) - Chat application made using ionic and socketio
+* [Ionic 2 Push Notification](https://github.com/aggarwalankush/ionic2-push-base)
 
 ## Open source projects
 
 * [CNodeJS](https://github.com/lanceli/cnodejs-ionic) - The mobile app of [https://cnodejs.org](https://cnodejs.org)
 * [Pocket Lines · Mallorca](https://github.com/gsabater/Pocket-Lines) - Transports app for Palma de Mallorca
 * [Convergence](https://github.com/GrumpyWizards/Convergence) - A fun game
+* [Ionic 2 Weather app](https://github.com/aggarwalankush/ionic2-mosum)
 
 ## Books
 
