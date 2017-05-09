@@ -69,6 +69,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Books
 
+* [Hybrid Mobile Development with Ionic](https://www.packtpub.com/application-development/hybrid-mobile-development-ionic)
 * [Ionic in Action](http://www.manning.com/wilken/?a_aid=ionicinaction)
 
 
