@@ -23,6 +23,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [ngCordova](http://ngcordova.com/) - A collection of AngularJS extensions on top of the Cordova API
 * [Ionic View](http://apps.ionic.io/view-app) - Test and share your ionic app on iPhone without needing a Mac
 * [Ionic Framework generator](https://github.com/diegonetto/generator-ionic) - Yeoman generator for Ionic
+* [Capgo](https://capgo.app/) - Live updates / OTA for Capacitor apps.
 
 
 ## Tutorials and articles
